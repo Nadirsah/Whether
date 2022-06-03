@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   /*background-image: linear-gradient(blue,red,green);
+    height: 100vh;*/
+    background-image:url("noutbuk.jpg") ;
+}
+
+#cart{
+    margin-top: 50px;
+    margin: auto;
+    background-color: #ffffff10;
+    backdrop-filter: blur(50px);
+    -webkit-backdrop-filter: blur(100px);
+}
